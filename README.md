@@ -1,6 +1,1 @@
-# discord-rich-presence
-rich presence
-
-how to use just open main .py
-
-and enter your client id
+How to use this go to discord devolper portal make a bot then copy the id in the python file
