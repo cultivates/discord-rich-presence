@@ -3,7 +3,7 @@ import time
 import psutil
 
 
-client_id = '1111453008522399796'
+client_id = 'your bots id'
 RPC = Presence(client_id)
 RPC.connect()
 
